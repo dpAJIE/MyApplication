@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_hire"
+        android:icon="@drawable/ic_person_add"
+        android:title="Recruitment" />
+
+    <item
+        android:id="@+id/navigation_mpp"
+        android:icon="@drawable/ic_mpp"
+        android:title="MPP" />
+
+    <item
+        android:id="@+id/navigation_approval"
+        android:icon="@drawable/ic_approval"
+        android:title="Approval" />
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/ic_help"
+        android:title="Info" />
+
+</menu>
